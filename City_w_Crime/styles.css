@@ -1,0 +1,180 @@
+<style type="text/css">
+
+.headertop{
+    width:100%;
+    height:175px;
+}        
+#logotop{
+    height:113px;
+    width:100%;
+    float:left;
+    background-color:#0077B0;
+}
+#logobottom{
+    height:123px;
+    width:100%;
+    background-color:#005984;
+}
+#logo{
+    float:left; 
+    margin-left:0.5%;
+    margin-top:0.5%;
+     
+}
+
+ #heading{
+    width:100%;
+    border-radius:1px;
+    color:white;
+    font-family: fantasy;
+    margin-top:3%;
+    font-weight: normal;
+    padding-left:36%;
+    padding-right:20%;
+
+   }
+.menulinks{
+    margin-right: 150px;
+}
+    
+.newscontent
+    {
+    height:900px;
+    background-color:white;    
+    width:330px;
+    float:left;
+    margin-top:2px;
+    margin-left:2px;
+    border-radius:2px;
+    }
+.newshead
+{
+    background-color: black;
+    height:60px;
+    border-radius:2px;
+    width:330px;
+    padding:15px 15px 15px 15px;
+}
+.newshere
+{
+    background-color: #F2F2F2;
+    height:839px;
+    border-radius:2px;
+    width:330px;
+    margin-top:1px;
+    padding:25px 25px 25px 25px ;
+}        
+.newshfont{
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+    font-size: large;
+}
+.newslist{
+    height:100%;
+    width:300px;
+    background-color: whitesmoke;
+    margin-bottom:3px;
+    margin-top:3px;
+    padding: 5px;
+}
+.sliderbox{
+    height: 400px;
+    width: 739px;
+    margin-right: 2px;
+    float:left;
+    margin-top: 2px;
+    margin-left: 2px;
+    margin-top: 2px;
+    background-color: white;
+    
+}
+.slider{
+    height:374px;
+    width:100%;
+    background-color: silver;
+}        
+
+.complainbox{
+    float:right;
+    padding:10px;
+    background-color: #DF0000;
+    opacity:0.8;
+    margin-top:12px;
+    border-radius:15px 0px 15px 0px;
+    width:270px;
+    height:280px;
+    
+    }
+.loginforall{
+    background-image:url("img/Capture.JPG");
+    height:35px;
+    
+}
+.logins{
+    text-align: center;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size:24px;
+    padding-left: 12px;
+    padding-right: 44px;
+}
+
+.logins:hover{
+    text-decoration: none;
+    color: #140569;
+}
+
+.formfull{
+    width:100%;
+}
+#description{
+    height:100px;
+    text-align: center;
+}
+#Sno{
+    text-align: center;   
+}
+#complainhead{
+    color: white;
+}
+.timer{
+    float:right;
+    height:20px;
+    width:140px; 
+    background-color: #E4E4E4;
+    border-radius:3px; 
+    margin-right:20px;  
+}
+
+#time{
+    text-align: right;
+}
+
+
+#slogan{
+    text-align: center;
+    color: whitesmoke;
+    text-align: center;
+    
+}
+
+.content-middle{
+    height:900px;
+}
+.content-bottom{
+    background-color: #D3D3D3;
+}
+.video{
+    float:left;
+    margin:5px;
+    margin-top:15px;
+}
+.criminal{
+    float:left;
+}
+    
+.complain-right{
+        float:right;
+    }
+</style>
